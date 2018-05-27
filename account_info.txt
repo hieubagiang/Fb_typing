@@ -1,3 +1,1 @@
-login=<your_email>
-pass=<your_password>
-mode=<list|full>
+login=testhieungu1@gmail.com=n6h3n2018mode=full
